@@ -1,9 +1,3 @@
-# IGHA-Annual-Tree-Maintenance-Scheduler
-// FULLY REBUILT, CLEAN, ERROR-FREE SCHEDULER APP
-// All JSX validated, all syntax errors resolved
-// America/Chicago ICS formatting corrected
-// Admin + Guest Scheduler working
-
 import React, { useState } from "react";
 import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
