@@ -1,10 +1,3 @@
-Below is a **professional, deployment‑ready, auto‑generated `README.md`** for your GitHub repository.
-
-You can copy/paste this directly into your **README.md** file.  
-It is formatted for GitHub, Vercel, and open‑source clarity.
-
-***
-
 # 🌳 Imani Green Health Advocate – Tree Maintenance Scheduler
 
 A modern React + Vite scheduling application designed to help Chicago residents coordinate **Annual Tree Maintenance** visits with Imani Green Health Advocates.  
