@@ -155,27 +155,6 @@ Used to grant access to the Admin Dashboard:
 
 ***
 
-## 📝 To‑Do (Optional Enhancements)
-
-*   Add persistent bookings storage (Supabase, Firebase, SharePoint, OneDrive Excel)
-*   Email notifications for new bookings
-*   SMS reminders
-*   Color theme customization
-*   Mobile‑first layout optimization
-*   Google Calendar API integration
-
-***
-
-## 💚 Credits
-
 Built for **Imani Green Health Advocates** to support community tree care and environmental wellness across Chicago neighborhoods.
 
 ***
-
-If you want, I can now:
-
-✅ Insert this README directly into your repo ZIP  
-or  
-✅ Generate a new ZIP that includes this README
-
-Just say: **“Update the ZIP with this README”**.
